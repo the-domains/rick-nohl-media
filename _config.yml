@@ -1,14 +1,28 @@
-layout_spectrum: 0.7030075
+name: Rick Nohl Media
+favicon: null
+layout_spectrum: 0.26394
+typography_spectrum: 0.70352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5998926
-  brandStrength: 0.7781955
-  lightness: 0
   brandColors:
     - '#ACAAA3'
     - '#201F1F'
     - '#DEE2E8'
     - '#534C41'
     - '#FF9139'
+  brandStrength: 0.5625
+  lightness: 0
+  saturation: 0.5998926
   rhythmicContrast: 0.2566978
-typography_spectrum: 0.4581096
-name: Rick Nohl Media
+purpose: []
